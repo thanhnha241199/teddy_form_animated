@@ -2,11 +2,9 @@
 
 A new Flutter project.
 
-   <iframe width="560" height="315"
-src=https://youtube.com/shorts/hSYHiBwKgSc" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+
+[![Everything Is AWESOME](https://yt-embed.herokuapp.com/embed?v=hSYHiBwKgSc)](https://www.youtube.com/watch?v=hSYHiBwKgSc "Everything Is AWESOME")
+
 
 ## Getting Started
 

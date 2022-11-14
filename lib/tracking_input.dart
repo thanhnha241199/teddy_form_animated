@@ -29,7 +29,7 @@ class TrackingTextInput extends StatefulWidget {
 class _TrackingTextInputState extends State<TrackingTextInput> {
   final GlobalKey _fieldKey = GlobalKey();
   final TextEditingController _textController = TextEditingController();
-  late Timer _debounceTimer;
+  Timer _debounceTimer = Timer(const Duration(seconds: 0), () {});
   @override
   initState() {
     _textController.addListener(() {
